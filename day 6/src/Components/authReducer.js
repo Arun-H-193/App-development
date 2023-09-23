@@ -1,4 +1,4 @@
-// authReducer.js
+
 
 import { LOGIN_SUCCESS, LOGOUT } from './authActions';
 
